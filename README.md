@@ -1,0 +1,2 @@
+# readme
+Hi, Apa kabar! 
